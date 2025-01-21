@@ -1,4 +1,3 @@
-# React_Js_Candidate_SSBD
 PROJECT DESCRIPTION:
 Develop a simple e-commerce application using React.js and API integration, with a focus on core functionalities like displaying products, adding them to a cart, and managing cart items. The application will also use React Router for navigation between pages.
 You are free to use any libraries, extensions, or tools that suit your development process.
